@@ -1,5 +1,8 @@
 # Azure IIS Web Server Lab
 
+## Architecture Diagram
+![Azure IIS Web Server Lab](screenshots/azure-iis-web-server-lab-diagram.png)
+
 ## Project Overview
 
 This project demonstrates the deployment and configuration of a Windows Server 2022 web server in Microsoft Azure using Internet Information Services (IIS).
